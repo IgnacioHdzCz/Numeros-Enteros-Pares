@@ -126,3 +126,8 @@ public class Aplicacion {
 
 }
 
+
+Casos de uso
+1.- Ingresamos un número multiplo de 2, por ejemplo el 8.
+2.- Ingresamos un número que no es multiplo de 2, por ejemplo el 3.
+3.- Ingresamos un número negatico, por ejemplo el -9
