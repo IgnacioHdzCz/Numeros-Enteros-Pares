@@ -13,3 +13,28 @@ manera:
 ![image](https://user-images.githubusercontent.com/41167366/46487420-c94b5c00-c7b4-11e8-9057-50de4e3dfe2c.png)
 
 
+Creamos la siguiente clase con los respectivos atributos y métodos.
+
+package modelo;
+
+public class NumEntero {
+
+	private int numero;
+  
+	public NumEntero() {
+  
+	}
+  
+	public NumEntero(int numero) {	
+		this.numero = numero;
+	}
+  
+	public int getNumero() {
+		return numero;
+	}
+  
+	public void setNumero(int numero) {
+		this.numero = numero;
+	}
+  
+}
