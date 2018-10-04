@@ -129,5 +129,12 @@ public class Aplicacion {
 
 Casos de uso
 1.- Ingresamos un número multiplo de 2, por ejemplo el 8.
+![image](https://user-images.githubusercontent.com/41167366/46490130-036c2c00-c7bc-11e8-82f5-026504574616.png)
+
 2.- Ingresamos un número que no es multiplo de 2, por ejemplo el 3.
-3.- Ingresamos un número negatico, por ejemplo el -9
+
+![image](https://user-images.githubusercontent.com/41167366/46490166-1a128300-c7bc-11e8-9c57-d63bb784efb7.png)
+
+3.- Ingresamos un número negativo, por ejemplo el -9
+
+![image](https://user-images.githubusercontent.com/41167366/46490201-39111500-c7bc-11e8-85e9-4a9125c02e8b.png)
